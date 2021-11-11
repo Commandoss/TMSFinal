@@ -1,0 +1,26 @@
+.strongPassword, .pin, .update, .buffer{
+    margin-right: 15px;
+    background-color: transparent;
+    border-radius: 1em;
+    border: 1px solid #3E5771;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 15px;
+    color:white;
+}
+
+.buffer{
+    background-color: #0472EC;
+}
+label{
+    color:white;
+    font-size: 20px;
+}
+.valueNumber, .numbersFlag{
+    margin-right: 15px;
+}
+
+button:active{
+    animation-delay: 0.5s;
+    background-color: orange;
+}
